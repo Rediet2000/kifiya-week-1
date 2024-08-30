@@ -1,0 +1,10 @@
+#pandas\numpy\nltk\nscikit-learn\nmatplotlib\nseaborn\ntalib\npynance\ntest
+
+pandas
+numpy
+nltk
+scikit-learn
+matplotlib
+seaborn
+talib
+pynance
