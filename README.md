@@ -1,1 +1,2 @@
-# kifiya-week-1
+# StockMarketDataAnalysis
+Kifiya AIM - Week-1
